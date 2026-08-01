@@ -1,9 +1,0 @@
-## Interface: 11200
-## Title: LockpickMaster
-## Notes: Rogue lockpicking tooltip — shows required skill for chests, doors, and lockboxes. Requires ClassicAPI.
-## Author: LockpickMaster
-## Version: 1.0.0
-## OptionalDeps: ShaguTweaks
-## SavedVariables: LockpickMasterDB
-
-LockpickMaster.lua
