@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **LockpickMaster** requires [**ClassicAPI**](https://github.com/brues-code/ClassicAPI) in order to function.
 
-LockPickMaster is a simple World of Warcraft 1.12.1 addon for Rogues with the following features:
+LockpickMaster is a simple World of Warcraft 1.12.1 addon for Rogues with the following features:
 
  - shows the required Lockpicking skill on lockboxes
  - shows the required Lockpicking skill on objects in the world such as chests, doors, gates etc.
