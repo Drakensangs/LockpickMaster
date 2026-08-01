@@ -1,7 +1,7 @@
 # 🗝️ **LockPickMaster** (Vanilla 1.12.1)
 
 > [!IMPORTANT]
-> **LockPickMaster** requires [**ClassicAPI**](https://github.com/brues-code/ClassicAPI) to function.
+> **LockPickMaster** requires [**ClassicAPI**](https://github.com/brues-code/ClassicAPI) in order to function.
 
 LockPickMaster is a simple World of Warcraft 1.12.1 addon for Rogues with the following features:
 
