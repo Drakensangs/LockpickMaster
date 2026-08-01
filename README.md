@@ -8,7 +8,7 @@ LockPickMaster is a simple World of Warcraft 1.12.1 addon for Rogues with the fo
  - shows the required lockpicking skill on lockboxes
  - shows the required lockpicking skill on objects in the world such as chests, doors, gates etc.
  - option to show your current skill level next to the required skill level and, if you do not meet the requirement, how many more skill levels you require
- - slash command **/lm items OR objects** to show a complete database of all unlockable items and objects in the addon
+ - slash command **/lm items** or **objects** to show a complete database of all unlockable items or objects in the addon
 
 Type **/lm** to bring up a list of all commands.
 
