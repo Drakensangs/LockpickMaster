@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: LockpickMaster
+## Notes: Displays the required Lockpicking skill on items & objects for Rogues.
+## Author: Drakensangs
+## Version: 1.0
+## SavedVariablesPerCharacter: LockpickMasterDB
+
+LockpickMaster.lua
