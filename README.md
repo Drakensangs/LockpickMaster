@@ -1,18 +1,18 @@
-# 🗝️ **LockPickMaster** (Vanilla 1.12.1)
+# 🗝️ **LockpickMaster** (Vanilla 1.12.1)
 
 > [!IMPORTANT]
-> **LockPickMaster** requires [**ClassicAPI**](https://github.com/brues-code/ClassicAPI) in order to function.
+> **LockpickMaster** requires [**ClassicAPI**](https://github.com/brues-code/ClassicAPI) in order to function.
 
 LockPickMaster is a simple World of Warcraft 1.12.1 addon for Rogues with the following features:
 
- - shows the required lockpicking skill on lockboxes
- - shows the required lockpicking skill on objects in the world such as chests, doors, gates etc.
+ - shows the required Lockpicking skill on lockboxes
+ - shows the required Lockpicking skill on objects in the world such as chests, doors, gates etc.
  - option to show your current skill level next to the required skill level and, if you do not meet the requirement, how many more skill levels you require
  - slash command **/lm items** or **objects** to show a complete database of all unlockable items or objects in the addon
 
 Type **/lm** to bring up a list of all commands.
 
-The reason for using ClassicAPI is that it allows the addon to read objects from their GameObject ID, so there's no need to use the object's name in the addon as that can lead to issues where you have objects of the same name with different lockpicking requirements, sometimes right next to each other (Wetlands chests, for example).
+The reason for using ClassicAPI is that it allows the addon to read objects from their GameObject ID, so there's no need to use the object's name in the addon as that can lead to issues where you have objects of the same name with different Lockpicking requirements, sometimes right next to each other (Wetlands chests, for example).
 
 ## 👨‍💻 **Authors**
 
